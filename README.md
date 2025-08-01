@@ -1,4 +1,4 @@
-# ![typewriter (1)](https://github.com/user-attachments/assets/710bca59-64ed-4cad-884d-9b75392df1f4)
+# ![typewriter (3)](https://github.com/user-attachments/assets/f1950c48-f9e9-4f7c-bdd4-ef81a9b46006)
 
 ## ✨ About Me
 
@@ -40,13 +40,10 @@ Outside of tech, I enjoy 💃 dancing, 🎤 singing, and ✈️ traveling!
 
 **More coming soon!**
 
-
 ## 🤙 Connect With Me!
 I’m always looking to learn, build, and connect — whether it’s through meaningful work, cool side projects, or just sharing ideas. Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tvisha-doshi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tvisha.doshii@gmail.com) 
-
-
 
 
