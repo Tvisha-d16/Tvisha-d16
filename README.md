@@ -36,7 +36,7 @@ Outside of tech, I enjoy 💃 dancing, 🎤 singing, and ✈️ traveling!
 ![ESP32](https://img.shields.io/badge/ESP32%20-%20red?style=for-the-badge&logo=Espressif&logoColor=white)
 
 ## 🚀 Projects
-**AIM25 - NueroCam** — An Ai that analyzes facial expressions and micro-movements to detect early signs of nurological disorders.
+**AIM25 - NueroCam** — An Ai that analyzes facial expressions and micro-movements to detect early signs of nuerological disorders.
 
 **More coming soon!**
 
