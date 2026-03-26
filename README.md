@@ -3,7 +3,7 @@
 ## ✨ About Me
 
 - I am a **Computer Engineering** undergrad studying at the University of Texas at Dallas! 
-- I love building **embedded systems** and combinining **hardware and AI**
+- I love building **embedded systems** and combining **hardware and AI**
 - Currently working on a **Noise Classifier** for the hearing-impaired using **ESP32**
 - Learning more about **low-level programming, microcontrollers, and TinyML** 
 
